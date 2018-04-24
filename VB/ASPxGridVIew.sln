@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ASPxGridVIew", "ASPxGridVIew\ASPxGridVIew.vbproj", "{44E0301D-605E-4653-8E8D-19D90831F1E3}"
 EndProject
